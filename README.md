@@ -1,7 +1,6 @@
 # 🐍 Python Projects
 
-Welcome to my curated collection of Python-based projects — ranging from beginner-friendly scripts to full-stack web apps built using Django and MySQL. These projects reflect my passion for clean code, UI design, and practical functionality.
-
+Welcome to my collection of Python-based projects for beginner-friendly coding.
 
 ## 📦 Projects Included
 
